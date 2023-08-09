@@ -10,4 +10,4 @@
 ⚡️ Optimized with Parcel\
 ⚡️ Well-organized documentation
 
-## website link: https://idyllic-speculoos-522f28.netlify.app/
+## website link: https://adiba-portfolio.com
