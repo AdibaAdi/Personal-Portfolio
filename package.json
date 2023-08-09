@@ -1,8 +1,8 @@
 {
-  "name": "simplefolio",
+  "name": "portfolio",
   "version": "1.0.1",
   "private": "true",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "description": "Adiba's personal portfolio",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "url": "git+https://github.com/AdibaAdi/portfolio-Adiba"
   },
-  "keywords": [],
-  "author": "Jacobo Martinez",
+  "keywords": ["portfolio", "SWE", "personal"],
+  "author": "Adiba Akter",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
+    "url": "https://github.com/AdibaAdi/portfolio-Adiba/issues"
   },
-  "homepage": "https://github.com/cobidev/simplefolio#readme",
+  "homepage": "https://github.com/AdibaAdi/portfolio-Adiba#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.7.0",
     "parcel": "^2.7.0",
